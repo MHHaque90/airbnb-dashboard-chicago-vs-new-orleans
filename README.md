@@ -102,3 +102,16 @@ airbnb-dashboard-project/
 │   └── dashboard_3.png
 ├── Airbnb_EDA.ipynb
 └── README.md
+## 👨‍💻 Author
+
+---
+**Muhammad Hammaad Haque**  
+📧 Email: mhhaque90@gmail.com  
+🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/muhammad.hammaad.haque)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-hammaad-haque/)  
+---
+
+## 🙏 Acknowledgement
+
+This project was completed as part of the [**AlmaBetter**](https://www.almabetter.com/) Full Stack Data Science Program under the **EDA to Dashboard Capstone Challenge**.  
+Special thanks to **AlmaBetter** for providing the guidance, resources, and community support that helped shape this project into a practical and insightful data visualization case study.
