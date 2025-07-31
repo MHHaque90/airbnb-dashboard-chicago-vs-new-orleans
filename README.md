@@ -17,13 +17,13 @@ We analyze Airbnb operations in **Chicago** and **New Orleans** through comprehe
 Below are the snapshots of the interactive dashboards created in Tableau:
 
 ### Dashboard 1: Host & Review Overview
-![Dashboard 1](Dashboards/dashboard_1.png)
+![Dashboard 1](Dashboard/dashboard_1.png)
 
 ### Dashboard 2: Listings, Room Types & Pricing
-![Dashboard 2](Dashboards/dashboard_2.png)
+![Dashboard 2](Dashboard/dashboard_2.png)
 
 ### Dashboard 3: Availability, Reviews & Activity
-![Dashboard 3](Dashboards/dashboard_3.png)
+![Dashboard 3](Dashboard/dashboard_3.png)
 
 ---
 
