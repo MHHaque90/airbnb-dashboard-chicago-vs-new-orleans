@@ -93,13 +93,13 @@ All dashboards include **interactive filters** for a better user experience and 
 ## 📂 Repository Structure
 
 📦 airbnb-dashboard-project/
-┣ 📁 data/
-┃ ┣ 📄 chicago_airbnb_cleaned.csv
-┃ ┗ 📄 new_orleans_airbnb_cleaned.csv
-┣ 📁 dashboards/
-┃ ┗ 📄 dashboard_screenshots.png (optional)
-┣ 📄 Airbnb_EDA.ipynb
-┗ 📄 README.md
+- ┣ 📁 data/
+- ┃ ┣ 📄 chicago_airbnb_cleaned.csv
+- ┃ ┗ 📄 new_orleans_airbnb_cleaned.csv
+- ┣ 📁 dashboards/
+- ┃ ┗ 📄 dashboard_screenshots.png (optional)
+- ┣ 📄 Airbnb_EDA.ipynb
+- ┗ 📄 README.md
 ---
 
 ## Author
