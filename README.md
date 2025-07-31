@@ -102,8 +102,8 @@ airbnb-dashboard-project/
 │   └── dashboard_3.png
 ├── Airbnb_EDA.ipynb
 └── README.md
+```
 ## 👨‍💻 Author
-
 ---
 **Muhammad Hammaad Haque**  
 📧 Email: mhhaque90@gmail.com  
