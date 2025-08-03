@@ -107,8 +107,8 @@ airbnb-dashboard-project/
 ---
 **Muhammad Hammaad Haque**  
 📧 Email: mhhaque90@gmail.com  
-🔗 [Tableau Public Profile] (https://public.tableau.com/app/profile/muhammad.hammaad.haque)  
-🔗 [LinkedIn_Profile] (https://www.linkedin.com/in/muhammad-hammaad-haque/)  
+🔗 [Tableau Public Profile](https://public.tableau.com/app/profile/muhammad.hammaad.haque)  
+🔗 [LinkedIn_Profile](https://www.linkedin.com/in/muhammad-hammaad-haque/)  
 ---
 
 ## 🙏 Acknowledgement
